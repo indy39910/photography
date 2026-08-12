@@ -1,0 +1,21 @@
+baseURL = "https://indy39910.github.io/"
+languageCode = "en-us"
+title = "Indy | Photography"
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+# Gallery theme requires Hugo Modules (recommended) — see README below.
+# If using modules, this file also needs a corresponding go.mod (created via `hugo mod init`).
+
+[params]
+  # Shown in header/footer
+  description = "Photography portfolio"
+
+  [params.socialIcons]
+    github = "https://github.com/indy39910"
+    instagram = "https://www.instagram.com/im._.indy/"
+    email = "mailto:than.thanawutikul@gmail.com"
+
+# To exclude full-res originals from the published site, use cascade in
+# content front matter (build.publishResources = false) — see README.md
