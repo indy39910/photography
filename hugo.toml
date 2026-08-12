@@ -1,5 +1,6 @@
 baseURL = "https://indy39910.github.io/"
 languageCode = "en-us"
+timeout = "120s"
 title = "Indy | Photography"
 copyright = "© 2026 than"
 
