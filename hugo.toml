@@ -1,0 +1,17 @@
+baseURL = "https://indy39910.github.io/"
+languageCode = "en-us"
+title = "Indy | Photography"
+copyright = "© 2026 than"
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[params]
+  description = "Photography portfolio"
+  defaultTheme = "light"
+
+  [params.socialIcons]
+    github = "https://github.com/indy39910"
+    instagram = "https://www.instagram.com/im._.indy/"
+    email = "mailto:than.thanawutikul@gmail.com"
