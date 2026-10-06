@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/people/</loc>
+    <loc>https://indy39910.github.io/people/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aquatic/</loc>
+    <loc>https://indy39910.github.io/aquatic/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/buildings/</loc>
+    <loc>https://indy39910.github.io/buildings/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stylized/</loc>
+    <loc>https://indy39910.github.io/stylized/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://indy39910.github.io/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nature/</loc>
+    <loc>https://indy39910.github.io/nature/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/urban/</loc>
+    <loc>https://indy39910.github.io/urban/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://indy39910.github.io/videogames/</loc>
+    <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://indy39910.github.io/categories/</loc>
+  </url><url>
+    <loc>https://indy39910.github.io/tags/</loc>
   </url>
 </urlset>

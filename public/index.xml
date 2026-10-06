@@ -2,71 +2,81 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indy&#39;s Photo Stuff on Indy | Photography</title>
-    <link>http://localhost:1313/</link>
+    <link>https://indy39910.github.io/</link>
     <description>Recent content in Indy&#39;s Photo Stuff on Indy | Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 than</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://indy39910.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(very)Human Photography</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://indy39910.github.io/people/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
-        <media:content url="http://localhost:1313/people/20260805_0145_03_hu_8ec5c17d5cfb2a1f.jpg" type="image/jpeg"/>
+      <guid>https://indy39910.github.io/people/</guid>
+        <media:content url="https://indy39910.github.io/people/20260805_0145_03_hu_8ec5c17d5cfb2a1f.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/people/20260805_0145_03_hu_8ec5c17d5cfb2a1f.jpg&quot; /&gt;
+          &lt;img src=&quot;https://indy39910.github.io/people/20260805_0145_03_hu_8ec5c17d5cfb2a1f.jpg&quot; /&gt;
           &lt;p&gt;I&#39;m usually a bit shy in photographing random people so not too many photos here&lt;/p&gt;
         </description></item>
     <item>
       <title>Aquatic</title>
-      <link>http://localhost:1313/aquatic/</link>
+      <link>https://indy39910.github.io/aquatic/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aquatic/</guid>
-        <media:content url="http://localhost:1313/aquatic/cover_hu_78ff79c7e781c918.jpg" type="image/jpeg"/>
+      <guid>https://indy39910.github.io/aquatic/</guid>
+        <media:content url="https://indy39910.github.io/aquatic/cover_hu_78ff79c7e781c918.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/aquatic/cover_hu_78ff79c7e781c918.jpg&quot; /&gt;
+          &lt;img src=&quot;https://indy39910.github.io/aquatic/cover_hu_78ff79c7e781c918.jpg&quot; /&gt;
           &lt;p&gt;fih&lt;/p&gt;
         </description></item>
     <item>
       <title>Architecture</title>
-      <link>http://localhost:1313/buildings/</link>
+      <link>https://indy39910.github.io/buildings/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/buildings/</guid>
-        <media:content url="http://localhost:1313/buildings/20260201_0250_02_hu_b3b31cd83d0df8c8.jpg" type="image/jpeg"/>
+      <guid>https://indy39910.github.io/buildings/</guid>
+        <media:content url="https://indy39910.github.io/buildings/20260201_0250_02_hu_b3b31cd83d0df8c8.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/buildings/20260201_0250_02_hu_b3b31cd83d0df8c8.jpg&quot; /&gt;
+          &lt;img src=&quot;https://indy39910.github.io/buildings/20260201_0250_02_hu_b3b31cd83d0df8c8.jpg&quot; /&gt;
           &lt;p&gt;Just photos of buildings and stuff i found cool&lt;/p&gt;
         </description></item>
     <item>
       <title>i went crazy on the sliders</title>
-      <link>http://localhost:1313/stylized/</link>
+      <link>https://indy39910.github.io/stylized/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/stylized/</guid>
-        <media:content url="http://localhost:1313/stylized/20260506_0119_06_hu_dc7ec9844d0bd988.jpg" type="image/jpeg"/>
+      <guid>https://indy39910.github.io/stylized/</guid>
+        <media:content url="https://indy39910.github.io/stylized/20260506_0119_06_hu_dc7ec9844d0bd988.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/stylized/20260506_0119_06_hu_dc7ec9844d0bd988.jpg&quot; /&gt;
+          &lt;img src=&quot;https://indy39910.github.io/stylized/20260506_0119_06_hu_dc7ec9844d0bd988.jpg&quot; /&gt;
           &lt;p&gt;Crazy? I was crazy once, They locked me in a room, a rubber room, a rubber room with rats, and rats make me crazy.&lt;/p&gt;
         </description></item>
     <item>
       <title>Nature</title>
-      <link>http://localhost:1313/nature/</link>
+      <link>https://indy39910.github.io/nature/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nature/</guid>
-        <media:content url="http://localhost:1313/nature/cover_hu_2b1d4938b5e7c558.jpg" type="image/jpeg"/>
+      <guid>https://indy39910.github.io/nature/</guid>
+        <media:content url="https://indy39910.github.io/nature/cover_hu_2b1d4938b5e7c558.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/nature/cover_hu_2b1d4938b5e7c558.jpg&quot; /&gt;
+          &lt;img src=&quot;https://indy39910.github.io/nature/cover_hu_2b1d4938b5e7c558.jpg&quot; /&gt;
           &lt;p&gt;gren&lt;/p&gt;
         </description></item>
     <item>
       <title>Urban</title>
-      <link>http://localhost:1313/urban/</link>
+      <link>https://indy39910.github.io/urban/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/urban/</guid>
-        <media:content url="http://localhost:1313/urban/20260522_0004_hu_6d9c15a0eccaa541.jpg" type="image/jpeg"/>
+      <guid>https://indy39910.github.io/urban/</guid>
+        <media:content url="https://indy39910.github.io/urban/20260522_0004_hu_6d9c15a0eccaa541.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/urban/20260522_0004_hu_6d9c15a0eccaa541.jpg&quot; /&gt;
+          &lt;img src=&quot;https://indy39910.github.io/urban/20260522_0004_hu_6d9c15a0eccaa541.jpg&quot; /&gt;
           &lt;p&gt;not a clue what to put here so i&#39;ll shout out one of my fav artists, try listening to Millie, Warm the Kettle - Rabbitology&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Videogames?</title>
+      <link>https://indy39910.github.io/videogames/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://indy39910.github.io/videogames/</guid>
+        <media:content url="https://indy39910.github.io/videogames/Screenshot_honda_acty_ha3_shuto_revival_project_beta_12-8-126-14-35-2_hu_d58cb179f121c44a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://indy39910.github.io/videogames/Screenshot_honda_acty_ha3_shuto_revival_project_beta_12-8-126-14-35-2_hu_d58cb179f121c44a.jpg&quot; /&gt;
+          &lt;p&gt;Is this even actual photography? honestly idk but hey look cool videogame shots&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
